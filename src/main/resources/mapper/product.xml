@@ -5,7 +5,7 @@
 <mapper namespace="site.metacoding.firstapp.domain.product.ProductDao">
 
 	<insert id="insert">
-	
+
 	</insert>
 
 </mapper>
